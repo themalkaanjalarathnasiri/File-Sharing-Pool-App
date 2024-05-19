@@ -1,3 +1,7 @@
+Created By:
+IT21270024 - N.A.P.G Nupearachchi
+IT21206450 - T.P.T.A Rathnasiri
+
 Welcome to the Secure File Sharing Pool App! This mobile application enhances the security and efficiency of file sharing within your organization, ensuring that sensitive information remains protected while facilitating easy access and collaboration among team members. Follow the instructions below to set up and start using the app on your Android device.
 
 Getting Started
@@ -32,7 +36,3 @@ Receive Files: Check if you can receive files shared by others.
 Access Control: Verify that you can access only those files that you are authorized to view or edit.
 
 Thank you for using the Secure File Sharing Pool App. We hope it significantly enhances your productivity and security in handling organizational data.
-
-Created By:
-IT21270024 - N.A.P.G Nupearachchi
-IT21206450 - T.P.T.A Rathnasiri
